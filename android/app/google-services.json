@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952869416607",
+    "project_id": "pease-global-task",
+    "storage_bucket": "pease-global-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952869416607:android:3e7f7989d866884fe7bcaa",
+        "android_client_info": {
+          "package_name": "com.example.peace_global_logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952869416607-id1rptuogd5lekt7s8qqhhu9qm48tfjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peace_global_logistics",
+            "certificate_hash": "4b4cec9b76b2ede7ead2819abdb21968b417a1ef"
+          }
+        },
+        {
+          "client_id": "952869416607-56qnmi5u9cvev2h84dmdon13du0pbjlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHpwhFAlaM6OPv4a43hjOfB7s3Rz7-A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952869416607-56qnmi5u9cvev2h84dmdon13du0pbjlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
